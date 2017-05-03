@@ -60,7 +60,7 @@ public class HdfsUtils {
 		FileInputStream is = new FileInputStream("c:/qingshu.txt");
 		
 		IOUtils.copy(is, os);
-		
+
 
 	}
 
