@@ -7,5 +7,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/yarn"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hdfs"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hadoop"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hbase"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
